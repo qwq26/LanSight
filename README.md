@@ -14,7 +14,7 @@
 
 ### 环境要求
 - Python 3.6 及以上版本
-- 支持Windows、Linux和macOS操作系统
+- 支持Windows操作系统 （Linux和macOS好像也行但没试过）
 
 ### 依赖安装
 1. 克隆或下载代码库到本地
