@@ -1,4 +1,4 @@
-# 网络设备发现与信息同步工具
+#  Network Device Discovery and Information Synchronization Tool (网络设备发现与信息同步工具)
 
 ## 介绍
 
